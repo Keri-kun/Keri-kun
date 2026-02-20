@@ -24,11 +24,12 @@ I have experience developing marketplace platforms and educational websites.
 
 ## 🌟 Featured Projects
 
-### 🎨 ArtToy Marketplace 3D
+### 🎨 [ArtToy Marketplace 3D](https://github.com/Keri-kun/arttoy-marketplace-3d)
 Marketplace website for buying and selling Art Toys with interactive 3D model viewer.
 
-### 📚 Thai Cultural Learning System
+### 📚 [Thai Cultural Learning System](https://github.com/Keri-kun/thai-cultural-learning-system)
 Interactive learning platform for studying cultural knowledge.
+
 
 ---
 
@@ -45,6 +46,7 @@ Interactive learning platform for studying cultural knowledge.
 
 ## 📊 GitHub Stats
 
-![Keri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keri-kun&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Keri-kun&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keri-kun&layout=compact&theme=tokyonight)
+
