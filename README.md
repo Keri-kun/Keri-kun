@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Keri
+# 👋 Hi, I'm Wit
 
 💻 Junior Web Developer | PHP & MySQL  
 🎓 Computer Science Graduate | Thailand
