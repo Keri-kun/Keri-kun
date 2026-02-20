@@ -50,4 +50,4 @@ Interactive learning platform for studying cultural knowledge.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keri-kun&layout=compact&theme=tokyonight)
 
-
+![Streak](https://streak-stats.demolab.com?user=Keri-kun&theme=tokyonight)
