@@ -46,8 +46,9 @@ Interactive learning platform for studying cultural knowledge.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keri-kun&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Keri-kun&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keri-kun&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keri-kun&layout=compact&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=Keri-kun&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Keri-kun&theme=tokyonight&hide_border=true)
