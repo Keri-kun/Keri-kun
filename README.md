@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wit
+# 👋 Hi, I'm Wit.Witsupakit Bunwanich
 
 💻 Junior Web Developer | PHP & MySQL  
 🎓 Computer Science Graduate | Thailand
