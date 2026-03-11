@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Wit.Witsupakit Bunwanich
 
 💻 Junior Web Developer | PHP & MySQL  
-🎓 Computer Science Graduate | Thailand
+🎓 Applied Computer Science (Web and Multimedia) | Thailand
 
 ---
 
